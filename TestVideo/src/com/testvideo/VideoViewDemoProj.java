@@ -33,7 +33,7 @@ public class VideoViewDemoProj extends Activity {
         super.onCreate(icicle);
         setContentView(R.layout.activity_main);
         mVideoView = (VideoView) findViewById(R.id.surface_view);
-
+//Diepn
         mPath = (EditText) findViewById(R.id.path);
     //  mPath.setText("http://logisticinfotech.com/extra/Veer.mp4");
     //  mPath.setText("http://www.youtube.com/watch?v=rkOySwlEtVk&amp;feature=youtube_gdata_player");
