@@ -34,7 +34,7 @@ public class VideoViewDemoProj extends Activity {
         setContentView(R.layout.activity_main);
         mVideoView = (VideoView) findViewById(R.id.surface_view);
 
-//Dipen
+//Dhaval
 
         mPath = (EditText) findViewById(R.id.path);
     //  mPath.setText("http://logisticinfotech.com/extra/Veer.mp4");
